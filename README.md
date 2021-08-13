@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gupta.ankur255@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dWslp8T6mzVIuIgsUUrRPW2I5V5ZSNo_/view](https://drive.google.com/file/d/1dWslp8T6mzVIuIgsUUrRPW2I5V5ZSNo_/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dWslp8T6mzVIuIgsUUrRPW2I5V5ZSNo_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
