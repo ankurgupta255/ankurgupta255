@@ -29,3 +29,7 @@
 
   
 </details>
+
+<p align="center">
+  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/ankurgupta255/count.svg" alt="Visitor Count" /></h2>
+</p>
