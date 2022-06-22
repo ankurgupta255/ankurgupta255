@@ -26,10 +26,4 @@
 
 <br>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ankurgupta255&show_icons=true&theme=tokyonight&locale=en" alt="ankurgupta255" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ankurgupta255&show_icons=true&theme=tokyonight&locale=en" alt="ankurgupta255" /></p>
-
-  
 </details>
-
-<p align="center">
-  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/ankurgupta255/count.svg" alt="Visitor Count" /></h2>
-</p>
